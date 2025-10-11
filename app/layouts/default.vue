@@ -179,8 +179,8 @@ const onMenuSelect = (item: any) => {
             </button>
             <a href="/" class="text-xl font-bold flex items-center lg:ml-2.5">
               <img src="/images/logo.png" class="h-12 mr-2" alt="RVC-logo">
-              <span class="self-center whitespace-nowrap text-slate-600">วิทยาลัยอาชีวศึกษาร้อยเอ็ด<span
-                  class="block text-sm text-red-900 font-thin tracking-widest">Roi Et Vocational College</span></span>
+              <span class="self-center whitespace-nowrap text-blue-900">วิทยาลัยอาชีวศึกษาร้อยเอ็ด<span
+                  class="block text-sm text-gray-900 font-thin tracking-widest">Roi Et Vocational College</span></span>
             </a>
           </div>
           <div class="hidden md:flex justify-center w-1/2">

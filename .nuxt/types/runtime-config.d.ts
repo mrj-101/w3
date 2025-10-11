@@ -19,7 +19,37 @@ import { RuntimeConfig as UserRuntimeConfig, PublicRuntimeConfig as UserPublicRu
    },
   }
   interface SharedPublicRuntimeConfig {
+   aos: {
+      disable: boolean,
 
+      startEvent: string,
+
+      initClassName: string,
+
+      animatedClassName: string,
+
+      useClassNames: boolean,
+
+      disableMutationObserver: boolean,
+
+      debounceDelay: number,
+
+      throttleDelay: number,
+
+      offset: number,
+
+      delay: number,
+
+      duration: number,
+
+      easing: string,
+
+      once: boolean,
+
+      mirror: boolean,
+
+      anchorPlacement: string,
+   },
   }
 declare module '@nuxt/schema' {
   interface RuntimeConfig extends UserRuntimeConfig {}

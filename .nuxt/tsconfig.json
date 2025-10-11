@@ -100,6 +100,12 @@
       "#color-mode-options": [
         "./color-mode-options.mjs"
       ],
+      "#aos": [
+        "../node_modules/nuxt-aos/dist/runtime"
+      ],
+      "#aos/*": [
+        "../node_modules/nuxt-aos/dist/runtime/*"
+      ],
       "#vue-router": [
         "../node_modules/vue-router"
       ],
@@ -184,6 +190,7 @@
     "../node_modules/@nuxt/fonts/node_modules",
     "../node_modules/@nuxtjs/color-mode/node_modules",
     "../node_modules/@nuxt/ui/node_modules",
+    "../node_modules/nuxt-aos/node_modules",
     "../node_modules/@nuxt/devtools/node_modules",
     "../node_modules/@nuxt/telemetry/node_modules",
     "../dist",
