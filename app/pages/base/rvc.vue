@@ -49,32 +49,124 @@
   <!-- การก่อตั้ง -->
   <UContainer class="my-8">
     <div class="flex flex-col md:flex-row gap-4">
-      <div class="flex-1 bg-white rounded-2xl p-4 text-center" data-aos="flip-left" data-aos-easing="ease-out-cubic"
-        data-aos-duration="2000">
+      <div class="flex-1 bg-white rounded-2xl p-4 text-center text-sm">
+        <p>
+          <img src="/images/base/rvc2.png" data-aos="zoom-in" alt="vision" class="w-70 my-5 rounded-sm mx-auto">
+        </p>
         <h3 class="font-extrabold my-2 text-2xl text-zinc-500">การก่อตั้ง</h3>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla natus cupiditate qui sit, accusantium nisi
-          dignissimos illum explicabo ad doloribus. Doloribus maiores obcaecati totam explicabo similique tenetur
-          voluptates, nam dignissimos magnam repudiandae iusto alias excepturi atque animi aperiam in deserunt
-          reprehenderit earum tempora a, quas corporis. Placeat sit nulla minus dolores? Corporis aliquam aut obcaecati
-          ipsum, possimus non asperiores beatae alias dolorum exercitationem saepe distinctio blanditiis ipsam
-          repudiandae voluptatem porro autem, amet harum iure facilis pariatur temporibus? Vitae molestias deserunt
-          distinctio adipisci tempore dolore alias, a error maiores fugit ratione aspernatur, nobis rerum expedita
-          labore magnam hic eius excepturi facere minus aut. Quae voluptatum tempore enim magni deserunt odit
-          voluptatem, repellendus excepturi debitis repudiandae facilis odio eveniet atque cupiditate ipsam aliquid
-          fugit ducimus qui error ad inventore laudantium sunt quod neque. Eius saepe odit mollitia, rem ipsum quidem
-          deleniti soluta! Quaerat obcaecati earum nemo saepe libero numquam doloribus maxime nam aut veritatis
-          quibusdam molestias minima neque dolorum perferendis hic, sint porro iusto unde et est dolorem cum ipsum
-          error. Aperiam quia praesentium similique assumenda soluta optio quaerat eaque quas quae accusamus, odit nisi
-          nulla distinctio laudantium hic illo cupiditate eius dicta eveniet ea impedit dolorum. Unde cumque vitae iusto
-          eaque repudiandae animi quisquam aliquam fugit dolore commodi. Dolorum possimus illum itaque, rerum maiores
-          officia eligendi ab perspiciatis, eveniet earum qui voluptatem esse. Provident cum adipisci est sapiente
-          perferendis laboriosam odio eveniet. Aut ipsa cum voluptatem reprehenderit, nisi facere temporibus aperiam
-          voluptas eius, nihil veritatis adipisci mollitia quasi corporis sint facilis libero cumque vitae quas. Aut
-          animi natus perspiciatis doloribus magni aspernatur perferendis eum quam rerum ipsa omnis, eaque praesentium
-          consequatur ipsam placeat cum id nostrum. Eius dicta excepturi illo labore tempora culpa architecto ullam
-          neque ipsum odit quibusdam, repudiandae vitae! Sed, cumque. Harum eveniet nesciunt sequi voluptate vitae nisi,
-          illum ipsa labore! Aspernatur voluptatem eligendi architecto porro quos, debitis perspiciatis maiores, ex
-          nihil dignissimos molestias eveniet, voluptate vel numquam est?</p>
+        <p class="text-justify py-2">
+          วิทยาลัยอาชีวศึกษาร้อยเอ็ด จัดตั้งขึ้นครั้งแรกเมื่อวันที่ 15 ตุลาคม 2481 เดิมชื่อ “โรงเรียนช่างสตรีร้อยเอ็ด”
+          โดยอาศัยโรงอาหารของโรงเรียนสตรีประจำจังหวัดร้อยเอ็ด โดยมีนางประมูล ศรีมาดี รักษาการแทนครูใหญ่
+          เปิดทำการสอนระดับชั้นมัธยมศึกษาตอนต้น หลักสูตร 3 ปี รับนักเรียนที่สำเร็จการศึกษาชั้นประโยคประถมศึกษาปีที่ 6
+          มีจำนวนครู 2 คน นักเรียน 30 คน ต่อมาได้มีการพัฒนาเป็นลำดับ ดังนี้
+        </p>
+        <div class="py-3">
+          <h3 class="font-bold text-zinc-500">พ.ศ. 2482</h3> ย้ายไปเรียนที่โรงเรียนฝึกหัดครูมูลร้อยเอ็ด
+          (วิทยาลัยเทคนิคร้อยเอ็ดในปัจจุบัน)
+        </div>
+        <p>
+          <img src="/images/base/rvc1.jpg" data-aos="zoom-in" alt="vision" class="w-80 my-5 rounded-sm mx-auto">
+        </p>
+        <div class="py-3">
+          <h3 class="font-bold text-zinc-500">พ.ศ. 2483</h3>
+          ย้ายจากโรงเรียนฝึกหัดครูมูลร้อยเอ็ดมาอยู่ที่ดินของราชพัสดุมีเนื้อที่ 5
+          ไร่
+          1 งาน 78.2 ตารางวา
+          ซึ่งเป็นที่อยู่ในปัจจุบัน
+        </div>
+        <div class="py-3">
+          <h3 class="font-bold text-zinc-500">พ.ศ. 2485</h3> เปลี่ยนชื่อจาก “โรงเรียนการช่างทอผ้า” เป็น
+          “โรงเรียนตัดเย็บเสื้อผ้าร้อยเอ็ด”
+        </div>
+        <div class="py-3">
+          <h3 class="font-bold text-zinc-500">พ.ศ. 2490</h3> เปลี่ยนชื่อจาก “โรงเรียนตัดเย็บเสื้อผ้าร้อยเอ็ด” เป็น
+          “โรงเรียนช่างเย็บสตรี” สอนหลักสูตร 2 ปี
+        </div>
+        <div class="py-3">
+          <h3 class="font-bold text-zinc-500">พ.ศ. 2495</h3> เปิดสอนชั้นมัธยมศึกษาตอนปลาย
+          รับผู้สำเร็จชั้นมัธยมศึกษาตอนต้นหลักสูตร 3
+          ปี
+        </div>
+        <div class="py-3">
+          <h3 class="font-bold text-zinc-500">พ.ศ. 2503</h3> เปิดสอนชั้นมัธยมศึกษาชั้นสูง หลักสูตร 3 ปี
+        </div>
+        <div class="py-3">
+          <h3 class="font-bold text-zinc-500">พ.ศ. 2509</h3> เปิดรับนักเรียนชั้น มศ.3 เข้าเรียนหลักสูตร 3 ปี จำนวน 3
+          แผนก คือ 1)
+          แผนกผ้าและการตัดเย็บ 2)
+          แผนกอาหารและโภชนาการ และ 3) แผนกคหกรรม
+        </div>
+        <p>
+          <img src="/images/base/rvc4.png" data-aos="zoom-in" alt="vision" class="w-80 my-5 rounded-sm mx-auto">
+        </p>
+        <div class="py-3">
+          <h3 class="font-bold text-zinc-500">พ.ศ. 2519</h3> ได้รับเลื่อนฐานะเป็น <span
+            class="font-bold text-blue-500">วิทยาลัยอาชีวศึกษาร้อยเอ็ด</span> <br>และเปิดสอนระดับ ปวส.
+          แผนกคหกรรมศาสตร์ทั่วไปรับผู้สำเร็จ มศ.5
+        </div>
+        <p>
+          <img src="/images/base/rvc5.png" data-aos="zoom-in" alt="vision" class="w-80 my-5 rounded-sm mx-auto">
+        </p>
+
+        <ul>
+          <li class="mb-3">
+            <h3 class="font-bold text-zinc-500">พ.ศ. 2523</h3> เปิดสอนหลักสูตร ปวช. แผนกวิชาพาณิชยการ
+          </li>
+          <li class="mb-3">
+            <h3 class="font-bold text-zinc-500">พ.ศ. 2526</h3> เปิดสอนแผนกวิชาศิลปหัตถกรรม (สาขาผลิตภัณฑ์เครื่องหนัง)
+          </li>
+          <li class="mb-3">
+            <h3 class="font-bold text-zinc-500">พ.ศ. 2527</h3> เปิดสอนหลักสูตร ปวส. คณะบริหารธุรกิจสาขาวิชาการบัญชี
+            และเปิดสอนหลักสูตร
+            ปวท. สาขาวิชาการบัญชี
+          </li>
+          <li class="mb-3">
+            <h3 class="font-bold text-zinc-500">พ.ศ. 2533</h3> เปิดสอนหลักสูตร ปวส. สาขาวิชาการตลาด
+          </li>
+          <li class="mb-3">
+            <h3 class="font-bold text-zinc-500">พ.ศ. 2535</h3> เปิดสอนหลักสูตร ปวท. สาขาวิชาการตลาด
+          </li>
+          <li class="mb-3">
+            <h3 class="font-bold text-zinc-500">พ.ศ. 2537</h3> เปิดสอนหลักสูตร ปวช. สาขาวิชาคหกรรมธุรกิจ
+            และสาขาวิชาวิจิตรศิลป์
+            เปิดสอนหลักสูตร ปวส.
+            สาขาวิชาคอมพิวเตอร์ธุรกิจ เปิดสอนหลักสูตร ปวส. (ม.6) สาขาวิชาการบัญชี และสาขาวิชาการตลาด
+          </li>
+          <li class="mb-3">
+            <h3 class="font-bold text-zinc-500">พ.ศ. 2538</h3> เปิดสอนระบบทวิภาคี (ปวช.) ประเภทวิชาพณิชยกรรม
+            สาขาธุรกิจค้าปลีก
+            เปิดสอนหลักสูตร ปวช.
+            ประเภทศิลปกรรม สาขาวิชาการออกแบบ
+          </li>
+          <li class="mb-3">
+            <h3 class="font-bold text-zinc-500">พ.ศ. 2540</h3> เปิดสอนหลักสูตร ปวส.
+            สาขาวิชาเทคโนโลยีการถ่ายภาพและวีดีทัศน์
+          </li>
+          <li class="mb-3">
+            <h3 class="font-bold text-zinc-500">พ.ศ. 2541</h3> เปิดสอนหลักสูตร ปวส. สาขาวิชาการบัญชี (ภาคสมทบ)
+            เปิดสอนหลักสูตร
+            ปวส.สาขาวิชาคอมพิวเตอร์ธุรกิจ
+            (ภาคสมทบ)
+          </li>
+          <li class="mb-3">
+            <h3 class="font-bold text-zinc-500">พ.ศ. 2542</h3> เปิดสอนระบบทวิภาคี (ปวช.) สาขาวิชาคอมพิวเตอร์ธุรกิจ
+            เปิดสอนระบบทวิภาคี
+            (ปวช.)
+            สาขาวิชาธุรกิจการโรงแรม
+          </li>
+          <li class="mb-3">
+            <h3 class="font-bold text-zinc-500">พ.ศ. 2543</h3> เปิดสอนระบบทวิภาคี (ปวช.) สาขาวิชาการโรงแรม
+          </li>
+          <li class="mb-3">
+            <h3 class="font-bold text-zinc-500">พ.ศ. 2545</h3> เปิดสอนระบบทวิภาคี (ปวส.) สาขาวิชาธุรกิจการโรงแรม
+          </li>
+          <li class="mb-3">
+            <h3 class="font-bold text-zinc-500">พ.ศ. 2546</h3> เปิดสอนหลักสูตร (ปวส.) สาขาวิชาเทคโนโลยีสารสนเทศ,
+            เปิดสอนหลักสูตร
+            (ปวส.)
+            สาขาวิชาการออกแบบตกแต่ง, เปิดสอนหลักสูตร (ปวช.) สาขางานศิลปหัตถกรรม
+          </li>
+        </ul>
       </div>
       <div class="flex-1 bg-white rounded-2xl p-4 text-center">
         <h3 class="font-extrabold my-2 text-2xl text-zinc-500">สัญลักษณ์</h3>
