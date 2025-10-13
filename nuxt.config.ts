@@ -8,10 +8,10 @@ export default defineNuxtConfig({
   app: {
     head: {
       title: '@ วอศ.ร้อยเอ็ด', // Sets the default title
-      // You can also define a titleTemplate here for more dynamic global titles
-      // titleTemplate: '%s - My App Name',
     }
   },
+
+
 
   aos: {
     // Global settings:
