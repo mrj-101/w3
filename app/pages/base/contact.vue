@@ -2,24 +2,27 @@
   <UContainer>
 
     <UPageGrid class="my-8">
-      <UPageCard orientation="vertical" icon="i-lucide-sun-moon" title="ข้อมูลการติดต่อ"
-        class="w-full col-span-4 md:col-span-1">
+      <UPageCard orientation="vertical" icon="iconoir:mail" title="ข้อมูลการติดต่อ"
+        class="w-full col-span-4 md:col-span-1 text-blue-500">
         <template #description>
-          <p class="text-sm mt-3">
-            วิทยาลัยอาชีวศึกษาร้อยเอ็ด<br />
-            เลขที่ 115 ถ.สุริยเดชบำรุง<br />
-            ต.ในเมือง อ.เมืองร้อยเอ็ด จ.ร้อยเอ็ด 45000
-          </p>
-          <USeparator class="my-4" />
-          <p class="text-sm mt-2">
-            โทรศัพท์: 043-511430<br />
-            โทรสาร: 043-512991<br />
-            อีเมล: rvc@rvc.ac.th<br />
-            เว็บไซต์: http://www.rvc.ac.th
-          </p>
+          <div class="text-center md:text-left w-full mx-auto">
+            <p class="text-sm mt-3">
+              วิทยาลัยอาชีวศึกษาร้อยเอ็ด<br />
+              เลขที่ 115 ถ.สุริยเดชบำรุง<br />
+              ต.ในเมือง อ.เมืองร้อยเอ็ด จ.ร้อยเอ็ด 45000
+            </p>
+            <USeparator class="my-4" />
+            <p class="text-sm mt-2">
+              โทรศัพท์: 043-511430<br />
+              โทรสาร: 043-512991<br />
+              อีเมล: rvc@rvc.ac.th<br />
+              เว็บไซต์: http://www.rvc.ac.th
+            </p>
+          </div>
         </template>
       </UPageCard>
-      <UPageCard orientation="vertical" icon="i-lucide-sun-moon" title="แผนที่" class="w-full col-span-4 md:col-span-2">
+      <UPageCard orientation="vertical" icon="iconoir:map-pin" title="แผนที่"
+        class="w-full col-span-4 md:col-span-2 text-blue-500">
         <template #description class="min-w-full m-10">
           <div class="container " id="map">
             วิทยาลัยอาชีวศึกษาร้อยเอ็ด ตั้งอยู่ใจกลางเมืองร้อยเอ็ด บนถนนสุริยเดชบำรุง ใกล้สถานที่สำคัญหลายแห่ง เช่น

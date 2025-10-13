@@ -28,14 +28,20 @@ const items = ref<NavigationMenuItem[][]>([
         {
           label: 'ผู้บริหารสถานศึกษา',
           icon: 'hugeicons:manager',
-          description: 'ผู้บริหารสถานศึกษา, โครงสร้างการบริหาร',
+          description: 'ผู้บริหารสถานศึกษา, ทำเนียบผู้บริหาร',
           to: '/base/administrator'
         },
         {
-          label: 'คณะกรรมการสถานศึกษา',
+          label: 'คณะกรรมการบริหารวิทยาลัย',
           icon: 'hugeicons:user-group-02',
-          description: 'คณะกรรมการสถานศึกษา, ชมรมผู้ปกครอง',
+          description: 'คณะกรรมการบริหารวิทยาลัย, ชมรมผู้ปกครอง',
           to: '/base/board'
+        },
+        {
+          label: 'คณะกรรมการบริหารสถานศึกษา',
+          icon: 'iconoir:community',
+          description: 'คณะกรรมการบริหารสถานศึกษา, การแบ่งส่วนราชการภายใน',
+          to: '/base/board-rvc'
         },
         {
           label: 'การติดต่อ',
