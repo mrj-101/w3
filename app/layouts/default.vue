@@ -44,17 +44,17 @@ const items = ref<NavigationMenuItem[][]>([
           to: '/base/board-rvc'
         },
         {
+          label: 'โครงสร้างการบริหาร',
+          icon: 'hugeicons:maps-global-01',
+          description: 'โครงสร้างการบริหาร การแบ่งส่วนงานภายใน',
+          to: '/base/org_chart'
+        },
+        {
           label: 'การติดต่อ',
           icon: 'hugeicons:maps-global-01',
           description: 'แผนที่ โทรศัพท์ โทรสาร อีเมล',
           to: '/base/contact'
-        },
-        {
-          label: 'ภารกิจ',
-          icon: 'lets-icons:desk-duotone-line',
-          description: 'หน้าที่ กฏหมาย',
-          to: '/base/mission'
-        },
+        }
       ]
     },
     {
