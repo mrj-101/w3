@@ -44,10 +44,7 @@
       </div>
     </div>
     <!-- วิสัยทัศน์ พันธกิจ -->
-  </UContainer>
 
-  <!-- การก่อตั้ง -->
-  <UContainer class="my-8">
     <div class="flex flex-col md:flex-row gap-4">
       <div class="flex-1 bg-white rounded-2xl p-4 text-center text-sm">
         <p>

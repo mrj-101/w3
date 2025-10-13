@@ -40,12 +40,12 @@ const items = ref<NavigationMenuItem[][]>([
         {
           label: 'คณะกรรมการบริหารสถานศึกษา',
           icon: 'iconoir:community',
-          description: 'คณะกรรมการบริหารสถานศึกษา, การแบ่งส่วนราชการภายใน',
+          description: 'คณะกรรมการบริหารสถานศึกษา',
           to: '/base/board-rvc'
         },
         {
           label: 'โครงสร้างการบริหาร',
-          icon: 'hugeicons:maps-global-01',
+          icon: 'iconoir:community',
           description: 'โครงสร้างการบริหาร การแบ่งส่วนงานภายใน',
           to: '/base/org_chart'
         },

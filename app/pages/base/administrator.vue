@@ -5,6 +5,9 @@
 
 <template>
   <UContainer class="my-5">
+
+    <h2 class="text-center text-2xl text-blue-500 my-5">ผู้บริหารสถานศึกษา</h2>
+
     <div class="grid">
       <div class="mx-auto mb-5">
         <img src="/images/administrator/director.jpg" alt="admin01" class="w-1/2 md:w-64 mx-auto rounded-3xl shadow" />
