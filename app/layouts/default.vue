@@ -122,6 +122,24 @@ const items = ref<NavigationMenuItem[][]>([
           to: '/job/plan/'
         },
       ]
+    },
+    {
+      label: 'Example',
+      icon: 'lets-icons:subttasks-fill',
+      children: [
+        {
+          label: 'Hello',
+          icon: 'hugeicons:student',
+          description: 'แผนกวิชา ที่เปิดสอนในระดับ ปวช. และ ปวส.',
+          to: '/ex_api/hello'
+        },
+        {
+          label: 'DB API',
+          icon: 'hugeicons:student',
+          description: 'แผนกวิชา ที่เปิดสอนในระดับ ปวช. และ ปวส.',
+          to: '/ex_api/db'
+        },
+      ]
     }
   ]
 ])
